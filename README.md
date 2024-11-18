@@ -10,7 +10,7 @@ This project is non-functional, unfinished and has been [abandoned](https://gith
 
 ## License
 
-[Amazon Frontend Clone](https://github.com/amazon-frontend-clone) Copyright (C) 2024 [Esoteric Enderman](https://enderman.dev).
+[Amazon Frontend Clone](https://github.com/amazon-frontend-clone) Copyright (C) 2024 [Esoteric Enderman](https://enderman.dev)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
