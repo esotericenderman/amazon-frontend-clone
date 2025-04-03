@@ -2,7 +2,7 @@
 
 <sup>By [Esoteric Enderman](https://enderman.dev)</sup>
 
-[![Project Status: Abandoned](./images/badges/status.svg)](./)
+[![Project status: abandoned](./images/badges/status.svg)](./)
 
 > A project I did to learn how to use HTML, CSS, and JavaScript together.
 
